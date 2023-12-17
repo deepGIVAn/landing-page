@@ -1,0 +1,3 @@
+.inverted-colors {
+    filter: invert(100%);
+}
